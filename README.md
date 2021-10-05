@@ -20,9 +20,13 @@ num_room (int)
 Модель: xgboost
 
 Клонируем репозиторий и создаем образ
+
 $ git clone https://github.com/Slonozebra/ML_CP.git
+
 $ cd ML_CP
+
 $ docker build -t course_project .
+
 Запускаем контейнер
 Здесь Вам нужно создать каталог локально и сохранить туда предобученную модель (<your_local_path_to_pretrained_models> нужно заменить на полный путь к этому каталогу)
 
