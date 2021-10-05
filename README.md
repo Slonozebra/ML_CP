@@ -36,4 +36,3 @@ $ docker run -d -p 8180:8180 -p 8181:8181 1/gb_docker_flask_
 ```
 
 ### Переходим на localhost:8181
->>>>>>> Stashed changes
